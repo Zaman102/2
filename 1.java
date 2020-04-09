@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner
 import java.lang.*;
 public class Main
 {
